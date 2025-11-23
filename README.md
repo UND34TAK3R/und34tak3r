@@ -63,18 +63,14 @@ I love learning anything I can and I'm always eager to explore new technologies!
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UND34TAK3R&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=UND34TAK3R&theme=radical" alt="GitHub Streak" />
+</p>
 
-<div>
-  ![UND34TAK3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=UND34TAK3R&show_icons=true&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UND34TAK3R&theme=radical)
-</div>  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UND34TAK3R&layout=compact&theme=radical)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UND34TAK3R&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 

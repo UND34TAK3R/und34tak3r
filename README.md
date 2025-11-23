@@ -4,7 +4,7 @@ I'm a **Computer Science student** who's deeply into **software development**, *
 ---
 
 ## 🌱 Currently Learning
-**Machine learning**, **computer vision**, and **robot control systems**
+**Machine learning**, **Web Sockets**, and **Push Notification**
 
 ---
 

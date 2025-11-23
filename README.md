@@ -64,14 +64,15 @@ I love learning anything I can and I'm always eager to explore new technologies!
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![UND34TAK3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=UND34TAK3R&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UND34TAK3R&theme=radical)
+<div>
+  ![UND34TAK3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=UND34TAK3R&show_icons=true&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UND34TAK3R&theme=radical)
+</div>  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UND34TAK3R&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=UND34TAK3R&color=blueviolet)
 
 </div>
 

@@ -71,9 +71,3 @@ I love learning anything I can and I'm always eager to explore new technologies!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UND34TAK3R&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/UND34TAK3R">UND34TAK3R</a></i>
-</div>

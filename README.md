@@ -4,7 +4,7 @@ I'm a **Computer Science student** who's deeply into **software development**, *
 ---
 
 ## 🌱 Currently Learning
-**Machine learning**, **GUI**, **MAUI**, and **Swift MapKit**
+**Machine learning**, **Docker**, **MAUI**, and **AWS**
 
 ---
 

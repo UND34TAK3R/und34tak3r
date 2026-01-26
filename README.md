@@ -4,12 +4,11 @@ I'm a **Computer Science student** who's deeply into **software development**, *
 ---
 
 ## 🌱 Currently Learning
-**Machine learning**, **Docker**, **MAUI**, and **AWS**
+**Docker**, **MAUI**, and **AWS**
 
 ---
 
 ## 💼 What I'm Up To
-- 🤖 Developing AI-powered agents to automate workflows at **Pxier**
 - 🎓 Studying Computer Science at **College Lasalle**
 - 🔧 Building efficient, user-focused applications
 

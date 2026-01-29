@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Derrick!
-I'm a **Computer Science student** who's deeply into **software development**, **robotics**, and **AI**. I love baking ideas into code!
+I'm a **Computer Science student** who's deeply into **software development**. I love baking ideas into code!
 
 ---
 

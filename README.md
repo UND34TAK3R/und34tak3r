@@ -4,7 +4,7 @@
 
 I am a passionate software developer with a strong foundation in building robust full-stack solutions and intuitive user interfaces. Currently completing my studies at CEGEP and transitioning into the Software Engineering program at **Concordia University**, I thrive at the intersection of backend architecture and frontend user experience. 
 
-My development philosophy centers on creating modular, scalable, and ergonomic software that solves real-world operational challenges. Whether I am architecting a complex database migration, optimizing a mobile workflow, or learning a new technology stack, I prioritize clean code, maintainability, and user-centric design. I love baking complex ideas into efficient, reliable code!
+My development philosophy centers on creating modular, scalable, and ergonomic software that solves real-world operational challenges. Whether I am architecting a complex database migration, optimizing a mobile workflow, or learning a new technology stack, I prioritize clean code, maintainability, and user-centric design.
 
 ---
 
